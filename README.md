@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sevi Rees. I'm a data scientist with a background in transportation and energy modeling.
+- 👋 Hi, I’m Gulsevi Rees. I'm a data scientist with a background in transportation and energy modeling.
 - 👀 I’m interested in all things statistics and data.
 - 🌱 I’m currently learning Fundamentals of Data Engineering & LLM Applications.
 - 💞️ I’m looking to collaborate on anything related to hockey data, APIs, data analysis, ML, and stats.
